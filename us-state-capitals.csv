@@ -1,0 +1,52 @@
+name,city,latitude,longitude,zipcode
+Alabama,Montgomery,32.377716,-86.300568,36101
+Alaska,Juneau,58.301598,-134.420212,99801
+Arizona,Phoenix,33.448143,-112.096962,85001
+Arkansas,Little Rock,34.746613,-92.288986,72201
+California,Sacramento,38.576668,-121.493629,94203
+Colorado,Denver,39.739227,-104.984856,80201
+Connecticut,Hartford<br>,41.764046,-72.682198,6101
+Delaware,Dover,39.157307,-75.519722,19901
+DC ,Washington,38.895,-77.0366,20500
+Hawaii,Honolulu,21.307442,-157.857376,32301
+Florida,Tallahassee,30.438118,-84.281296,30301
+Georgia,Atlanta<br>,33.749027,-84.388229,96801
+Idaho,Boise,43.617775,-116.199722,83702
+Illinois,Springfield,39.798363,-89.654961,62701
+Indiana,Indianapolis,39.768623,-86.162643,46201
+Iowa,Des Moines,41.591087,-93.603729,50301
+Kansas,Topeka,39.048191,-95.677956,66601
+Kentucky,Frankfort,38.186722,-84.875374,40601
+Louisiana,Baton Rouge,30.457069,-91.187393,70801
+Maine,Augusta,44.307167,-69.781693,4330
+Maryland,Annapolis,38.978764,-76.490936,21401
+Massachusetts,Boston,42.358162,-71.063698,2108
+Michigan,Lansing,42.733635,-84.555328,48901
+Minnesota,St. Paul,44.955097,-93.102211,55101
+Mississippi,Jackson,32.303848,-90.182106,39201
+Missouri,Jefferson City,38.579201,-92.172935,65101
+Montana,Helena,46.585709,-112.018417,59601
+Nebraska,Lincoln,40.808075,-96.699654,68501
+Nevada,Carson City,39.163914,-119.766121,89701
+New Hampshire,Concord,43.206898,-71.537994,3301
+New Jersey,Trenton,40.220596,-74.769913,8601
+New Mexico,Santa Fe,35.68224,-105.939728,87501
+North Carolina,Raleigh,35.78043,-78.639099,12201
+North Dakota,Bismarck,46.82085,-100.783318,27601
+New York,Albany,42.652843,-73.757874,58501
+Ohio,Columbus,39.961346,-82.999069,43201
+Oklahoma,Oklahoma City,35.492207,-97.503342,73101
+Oregon,Salem,44.938461,-123.030403,97301
+Pennsylvania,Harrisburg,40.264378,-76.883598,17101
+Rhode Island,Providence,41.830914,-71.414963,2901
+South Carolina,Columbia,34.000343,-81.033211,29201
+South Dakota,Pierre,44.367031,-100.346405,57501
+Tennessee,Nashville,36.16581,-86.784241,37201
+Texas,Austin,30.27467,-97.740349,78701
+Utah,Salt Lake City,40.777477,-111.888237,84101
+Vermont,Montpelier,44.262436,-72.580536,5601
+Virginia,Richmond,37.538857,-77.43364,23218
+Washington,Olympia,47.035805,-122.905014,98501
+West Virginia,Charleston,38.336246,-81.612328,25301
+Wisconsin,Madison,43.074684,-89.384445,53701
+Wyoming,Cheyenne,41.140259,-104.820236,82001

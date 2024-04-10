@@ -19,7 +19,7 @@
 -Test2_.py will validate that the politician's route begins in Iowa.<br>
 -Solutions.pynb has a test located at the end of the file that will validate that the politician's route ends in DC.</h4>
 <h3>Author</h3>
-<h4>Alexis Harris</h4>
-<h4>Email for Questions: Lmh.mo.6@gmail.com</h4>
+<h4>Alex Zhu</h4>
+<h4>Email for Questions: qiuhaoalex@gmail.com</h4>
 <h3>Contributors</h3>
-<h4>Feier</h4># Traveling_Politician_Problem
+<h4>Alexis</h4># Traveling_Politician_Problem
